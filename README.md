@@ -29,5 +29,6 @@ MethodHouseholdtosupplier.py - Creating the spatial connection between household
 Additional Algorithms:
 
 Zonalstatistics.py - Filling gaps in the created least cost raster and fixing minor errors
+
 Correlations.R - Plots the correlation between the number of households assigned to a trashcan and the mass per year of this trashcan.
 
